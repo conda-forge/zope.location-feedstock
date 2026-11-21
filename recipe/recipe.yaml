@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "6.0"
+  version: "6.1"
 
 package:
   name: zope.location
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/z/zope.location/zope_location-${{ version }}.tar.gz
-  sha256: baa3e0e8eab734ff908ffd9860185c8de458025d49eae62f11ba3b16579ee6ce
+  sha256: 7359b21a67c1bd783e200d5037d2805c0e129e933ba14ecf022f9da761b9ed8b
 
 build:
   number: 0
